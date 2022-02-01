@@ -1,4 +1,6 @@
  Oii eu sou o Eudes melo! 😁✋
+Entrando pra  um mais novo mundo de programção .!
+
 
 
 <div>
